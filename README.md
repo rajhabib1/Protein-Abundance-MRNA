@@ -1,4 +1,4 @@
-# Predicting Protwin Abundance from mRNA data
+# Predicting Protein Abundance from mRNA data
 
 ## Introduction
 The R script is designed to predict protein abundance using mRNA sequences, RNA abundance data, and translation measurements. Our method integrates data preprocessing, feature extraction, and a machine learning approach utilizing a random forest model, aiming to bridge mRNA transcription and protein translation processes for biological research.
